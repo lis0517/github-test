@@ -25,4 +25,6 @@ public class User {
     @Size(min = 10, max = 20)
     @Column(nullable = false)
     private String password;
+
+    private String email;
 }
