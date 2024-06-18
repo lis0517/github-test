@@ -1,12 +1,5 @@
-## 설명
-<!--- Describe your changes in detail -->
+# 반영 브랜치
 
-## Motivation and Context
-<!--- Why is this change required? What problem does it solve? -->
+# 변경 사항
 
-<!--- Please link to the issue here: -->
-Closes #<issue number>
-
-## Reviewers
-<!--- Tag reviewers here -->
-@lis0517
+# 확인 방법 (스크린샷 포함)
